@@ -8,9 +8,9 @@ Hi! I'm Clem, I'm a 15 y/o developer from the United States, I currently am a Di
 - ⚡ Fun fact: I started learning development on the 3rd of January 2021.
 
 Some other links...<br>
-[Personal Site]()<br>
-[Aniu Dashboard]()<br>
-[Link Tree]()
+[Personal Site]() | Coming Soon<br>
+[Aniu Dashboard]() | Coming Soon<br>
+[Link Tree]() | Coming Soon
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=clemcodez&show_icons=true&theme=algolia&count_private=true)](https://github.com/ClemCodez)
 
