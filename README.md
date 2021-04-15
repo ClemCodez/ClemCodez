@@ -7,6 +7,11 @@ Hi! I'm Clem, I'm a 15 y/o developer from the United States, I currently am a Di
 - 📫 How to reach me: Clem#0001 on Discord!
 - ⚡ Fun fact: I started learning development on the 3rd of January 2021.
 
+Some other links...<br>
+[Personal Site]()<br>
+[Aniu Dashboard]()<br>
+[Link Tree]()
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=clemcodez&show_icons=true&theme=algolia&count_private=true)](https://github.com/ClemCodez)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clemcodez&theme=algolia&card_width=495)](https://github.com/ClemCodez)
