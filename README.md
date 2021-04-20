@@ -12,9 +12,9 @@ Some other links...<br>
 [Aniu Dashboard]() | Coming Soon<br>
 [Link Tree]() | Coming Soon
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=clemcodez&show_icons=true&theme=algolia&count_private=true)](https://github.com/ClemCodez)
+[![Stats](https://github-readme-stats.vercel.app/api?username=xyphercodez&show_icons=true&theme=algolia&count_private=true)](https://github.com/XypherCodez)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clemcodez&theme=algolia&card_width=495)](https://github.com/ClemCodez)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyphercodez&theme=algolia&card_width=495)](https://github.com/XypherCodez)
 <!--
 **ClemCodez/ClemCodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
