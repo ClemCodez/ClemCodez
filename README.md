@@ -1,6 +1,6 @@
 ### Welcome
 
-Hi! I'm Clem, I'm a 15 y/o developer from the United States, I currently am a Discord Bot developer, and hope to one day be a software engineer.
+Hi! I'm Xypher, I'm a 15 y/o developer from the United States, I currently am a Discord Bot developer, and hope to one day be a software engineer.
 
 - 🔭 I’m currently working on **Aniu**, A multi-purpose bot with many features including Modmail, Anti-Nuke, and general Moderation!
 - 🌱 I’m currently learning **Web Development**
