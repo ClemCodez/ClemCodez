@@ -2,14 +2,14 @@
 
 Hi! I'm Xypher, I'm a 15 y/o developer from the United States, I currently am a Discord Bot developer, and hope to one day be a software engineer.
 
-- 🔭 I’m currently working on **Sliphr**, A password management application!
+- 🔭 I’m currently working on **Viribus**, More information on this very soon!
 - 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me: Xypher#0001 on Discord!
 - ⚡ Fun fact: I started learning development on the 3rd of January 2021.
 
 Some other links...<br>
 [Personal Site]() | Coming Soon<br>
-[Sliphr]() | Coming Soon<br>
+[Viribus]() | Coming Soon<br>
 [Link Tree]() | Coming Soon
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=xyphercodez&show_icons=true&theme=algolia&count_private=true)](https://github.com/XypherCodez)
