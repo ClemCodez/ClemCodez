@@ -9,7 +9,7 @@ Hi! I'm Xypher, I'm a 15 y/o developer from the United States, I currently am a 
 
 Some other links...<br>
 [Personal Site]() | Coming Soon<br>
-[Viribus]() | Coming Soon<br>
+[Viribus](https://viribus.xyz) | Coming Soon<br>
 [Link Tree]() | Coming Soon
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=xyphercodez&show_icons=true&theme=algolia&count_private=true)](https://github.com/XypherCodez)
