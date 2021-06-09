@@ -1,8 +1,8 @@
 ### Welcome
 
-Hi! I'm Xypher, I'm a 15 y/o developer from the United States, I currently am a Discord Bot developer, and hope to one day be a software engineer.
+Hi! I'm Xypher, I'm a 15 y/o developer from the United States, I currently am a Developer/CEO of Viribus!
 
-- 🔭 I’m currently working on **Viribus**, More information on this very soon!
+- 🔭 I’m currently working on **Viribus**, Fitness tracking app!
 - 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me: Xypher#0001 on Discord!
 - ⚡ Fun fact: I started learning development on the 3rd of January 2021.
